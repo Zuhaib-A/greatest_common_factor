@@ -16,5 +16,3 @@ def gcf():
         small=mod
     print("The greatest common factor between " + str(numbs[0]) + " and " + str(numbs[1]) + " is " + str(big) + ".")
 gcf()
-
-
